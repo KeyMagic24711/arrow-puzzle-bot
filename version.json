@@ -1,0 +1,40 @@
+{
+ "app": "2.0.0",
+ "modules": {
+  "readmap": "2.0.0",
+  "solver": "2.0.0",
+  "tapper": "2.0.0",
+  "connection": "2.0.0",
+  "ui": "2.0.0"
+ },
+ "forced_floor": {
+  "readmap": "2.0.0",
+  "solver": "2.0.0",
+  "tapper": "2.0.0",
+  "connection": "2.0.0",
+  "ui": "2.0.0"
+ },
+ "files": [
+  "app/main.py",
+  "requirements.txt",
+  "src/__init__.py",
+  "src/common/__init__.py",
+  "src/common/logbook.py",
+  "src/readmap/__init__.py",
+  "src/readmap/readmap.py",
+  "src/readmap/VERSION",
+  "src/solver/__init__.py",
+  "src/solver/solver.py",
+  "src/solver/VERSION",
+  "src/tapper/__init__.py",
+  "src/tapper/tapper.py",
+  "src/tapper/VERSION",
+  "src/connection/__init__.py",
+  "src/connection/connection.py",
+  "src/connection/VERSION",
+  "src/ui/__init__.py",
+  "src/ui/app.py",
+  "src/ui/updater.py",
+  "src/ui/VERSION"
+ ]
+}
